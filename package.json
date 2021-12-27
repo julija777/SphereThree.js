@@ -1,0 +1,19 @@
+{
+  "name": "spherethree",
+  "version": "1.0.0",
+  "description": "Sphere using Three.js npm",
+  "main": "three.js",
+  "scripts": {
+    "test": "module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julija777/SphereThree.js.git"
+  },
+  "author": "Julija Stepanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julija777/SphereThree.js/issues"
+  },
+  "homepage": "https://github.com/julija777/SphereThree.js#readme"
+}
